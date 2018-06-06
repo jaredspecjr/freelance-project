@@ -16,3 +16,4 @@ Images to actual sketches of my work as well as "Sketch" made projects and their
 
   Site should have a locations link as well as a page for paying for work space.
   contact us will also be its own page.
+what 
