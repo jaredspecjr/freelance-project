@@ -15,5 +15,21 @@ Images to actual sketches of my work as well as "Sketch" made projects and their
 
 
   Site should have a locations link as well as a page for paying for work space.
-  contact us will also be its own page.
-what 
+  contact us will be a page
+
+
+## User Stories
+  Mobile version*
+
+  user clicks on an icon or image of amenity : browser directs to corresponding page
+
+  user clicks on hamburg menu : sees selection of links
+
+  user clicks on link in menu : browser directs to corresponding page
+
+  user clicks icon in upper left corner : user redirects to home page
+
+
+  Desktop version*
+
+  user no longer sees amenity icons instead they are replaced with a section listing the amenities.
